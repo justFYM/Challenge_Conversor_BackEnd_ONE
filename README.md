@@ -1,5 +1,11 @@
 # Challenge completado
 
+## Insignia otorgada por Oracle Next Education - Grupo 5
+<p align="center">
+  <img src="./Img/Insignia.PNG" alt="Descripción de la imagen">
+  
+</p>
+
 ### Vista inicial
 <p align="center">
   <img src="./Img/1.PNG" width="300px" alt="Descripción de la imagen">
