@@ -1,6 +1,6 @@
 # Challenge completado
 
-## Insignia otorgada por Oracle Next Education - Grupo 5
+### Insignia otorgada por Oracle Next Education - Grupo 5
 <p align="center">
   <img src="./Img/Insignia.PNG" alt="Descripción de la imagen">
   
